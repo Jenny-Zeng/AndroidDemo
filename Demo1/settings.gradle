@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "跟随手指的马"
